@@ -1,0 +1,4 @@
+Model_Name: Cat or Dog Classifier
+    Model_Family: CLASSIFIER
+    Model_Type: ANN
+    Model_Description: A model to classify dogs and cats.
